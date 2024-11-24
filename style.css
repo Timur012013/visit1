@@ -11,7 +11,7 @@ font-family: Arial, Helvetica, sans-serif;
 
 
 .header {
-    background-color: #1a1a1a;
+    background-color: #145adb;
     padding-top: 36px;
     padding-bottom: 200px;
 }
@@ -41,7 +41,7 @@ justify-content: space-evenly;
 }
 .nav-links a {
 text-decoration: none;
-color: #d1d1d1;
+color: #eee9e9;
 text-transform: uppercase;
 letter-spacing: 2px;
 font-size: 13px;
@@ -53,9 +53,9 @@ font-size: 13px;
 }
 .header-subtitle-text{
     display: inline-block;
-    border-left: 1px solid #8c8c8c;
+    border-left: 1px solid #ece9e9;
     padding:  8px 0 8px 20px;
-    color:#8c8c8c;
+    color:#f7efef;
     font-weight: bold;
     text-transform: uppercase;
     font-size: 13px;
@@ -70,11 +70,11 @@ max-width: 620px;
 line-height: 1;
 }
 .join{
-    background-color: #febe02;
+    background-color: #02fe73;
     position:absolute;
     right: 0;
     bottom: 0;
-    width: 110px;
+    width: 200px;
     height: 110px;
     padding: 16px;
     display: flex;
@@ -106,7 +106,7 @@ line-height: 1;
 }
 .header-subtitle {
     font-size: 13px;
-    color:#8c8c8c;
+    color:#e2dddd;
     font-weight: bold;
     letter-spacing: 1.5px;
     display: block;
@@ -122,12 +122,7 @@ line-height: 1;
     font-size: 14px;
     line-height: 1.8;
 }
-.audio-block {
-    background-color: #1a1a1a;
-    display: flex;
-    margin-top: 61px;
-    
-}
+
 .audio-container {
     display:flex;
     align-items: center;
@@ -148,13 +143,13 @@ line-height: 1;
     bottom:0;
 }
 .about-title {
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
     color:#fff;
-    letter-spacing: 0.5px;
-    margin-top: 15px;
-    margin-bottom: 4px;
-    text-align: center;
+    letter-spacing: 0.7px;
+    margin-top: 20px;
+    margin-bottom: 6px;
+    text-align: left;
 }
 .about-subtitle {
     font-size: 13px;
@@ -226,7 +221,7 @@ cursor: pointer;
     padding-left: 20px;
 }
 .btn-time {
-    background-color: #fff;
+    background-color: #14d114;
     border-radius: 5px;
     color: #111;
     padding: 6px 12px;
@@ -417,8 +412,8 @@ justify-content: space-evenly;
     }
 }
 .mob-btn {
-    display: none;
+    display: noneS;
 }
-.img-card-1 {background-image: url(img/card-1.png);}
-.img-card-2 {background-image: url(img/card-2.png);}
+.img-card-1 {background-image: url(https://digiseller.mycdn.ink/preview/1087188/p1_4126564_11906b35.jpg);}
+.img-card-2 {background-image: url(https://www.digiseller.ru/preview/432476/p1_3356272_986e7f9f.jpg);}
 
