@@ -153,7 +153,7 @@ line-height: 1;
 }
 .about-subtitle {
     font-size: 13px;
-    color:#8c8c8c;
+    color:#2b8a30;
     font-weight: bold;
     letter-spacing: 1.5px;
     text-align: center;
@@ -241,7 +241,7 @@ justify-content: space-evenly;
 .course-category {
     font-size: 13px;
     letter-spacing: 2px;
-    color:#bababa;
+    color:#41dd1b;
     font-weight: 400;
     margin:18px 0;
 }
@@ -260,11 +260,8 @@ justify-content: space-evenly;
     line-height: 1.7;
     letter-spacing: 0.5px;
 }
-
-
-
 .footer{
-    background-color: #f5f6f8;
+    background-color: #2a8d43;
     padding: 60px;
 }
 .course-info-title{
@@ -306,7 +303,7 @@ justify-content: space-evenly;
     font-weight: 400;
     font-size: 14px;
     letter-spacing: 0.5px;
-    color: #9a9a9b;
+    color: #17da38;
 }
 @media (max-width: 1120px) {
 .container {
